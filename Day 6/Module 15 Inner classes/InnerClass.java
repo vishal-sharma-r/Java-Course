@@ -18,6 +18,22 @@ class Outer {
     }
 }
 
+abstract class Super {
+    abstract public void display();
+}
+
+class sub {
+
+    public void show() {
+        Super s = new Super() {
+            public void display() {
+                System.out.println("Hello");
+            };
+        };
+        s.display();
+    }
+}
+
 public class InnerClass {
     public static void main(String[] args) {
         // Outer ou = new Outer();
@@ -25,5 +41,8 @@ public class InnerClass {
 
         Outer.Inner oi = new Outer().new Inner();
         oi.display();
+
+        sub s = new sub();
+        s.show();
     }
 }
