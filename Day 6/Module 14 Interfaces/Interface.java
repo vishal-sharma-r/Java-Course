@@ -16,6 +16,9 @@ class sub implements Super {
 public class Interface {
     public static void main(String[] args) {
         Super s = new sub();
+        sub sb = new sub();
+        sb.meth1();
+        sb.meth2();
         s.meth1();
         s.meth2();
     }
