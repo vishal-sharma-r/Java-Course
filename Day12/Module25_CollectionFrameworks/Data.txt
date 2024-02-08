@@ -1,0 +1,6 @@
+#Properties File
+#Thu Feb 08 17:21:33 IST 2024
+Brand=Dell
+Model=2021
+OS=Window
+Processor=i3
