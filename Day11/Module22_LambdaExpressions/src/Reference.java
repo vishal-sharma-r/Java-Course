@@ -18,7 +18,7 @@ public class Reference {
     }
     // Non-static method
     public void show(String s){
-        System.out.println("Show method" + s);
+        System.out.println("Show method " + s);
     }
     public static void main(String[] args) {
 

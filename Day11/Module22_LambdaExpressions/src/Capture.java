@@ -7,6 +7,10 @@ class UseLambda{
         ml.display();
     }
 }
+@FunctionalInterface
+interface Lambada12{
+    public void display();
+}
 class Demo{
     public void meth1(){
         UseLambda ul = new UseLambda();
@@ -22,5 +26,10 @@ public class Capture {
     public static void main(String[] args) {
         Demo d = new Demo();
         d.meth1();
+
+        Lambada12 l1 = ()->{
+            System.out.println("Hello World ! @ #");
+        };
+        l1.display();
     }
 }
