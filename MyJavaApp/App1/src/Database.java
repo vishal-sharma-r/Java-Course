@@ -28,5 +28,6 @@ public class Database {
         }
         pstm.close();
         con.close();
+        sc.close();
     }
 }
