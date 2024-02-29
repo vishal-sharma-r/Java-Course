@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_design_Pattern/Abstract_design_Pattern.iml" filepath="$PROJECT_DIR$/Abstract_design_Pattern/Abstract_design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee_Management_System/Employee_Management_System.iml" filepath="$PROJECT_DIR$/Employee_Management_System/Employee_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory_design_Pattern/Factory_design_Pattern.iml" filepath="$PROJECT_DIR$/Factory_design_Pattern/Factory_design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Liskov_substitution_Principle/Liskov_substitution_Principle.iml" filepath="$PROJECT_DIR$/Liskov_substitution_Principle/Liskov_substitution_Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOPS_design.iml" filepath="$PROJECT_DIR$/.idea/OOPS_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClosedPrinciple_And_StrategyPattern/OpenClosedPrinciple_And_StrategyPattern.iml" filepath="$PROJECT_DIR$/OpenClosedPrinciple_And_StrategyPattern/OpenClosedPrinciple_And_StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyInversion_TemplateDesign/dependencyInversion_TemplateDesign.iml" filepath="$PROJECT_DIR$/dependencyInversion_TemplateDesign/dependencyInversion_TemplateDesign.iml" />
+    </modules>
+  </component>
+</project>
